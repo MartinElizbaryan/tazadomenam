@@ -10,4 +10,5 @@
 
 
 echo "urishphp";
+echo "stex du nuyn fajlum nuyjn tex@ ban es anum.";
 
