@@ -10,4 +10,5 @@
 
 
 echo "urishphp";
+//kara qo @nger@ gorts ani ira mot u popoxats fajl@ push ani.  u du nuyn fjli vra gorts anes anev. 
 
